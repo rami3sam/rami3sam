@@ -14,13 +14,14 @@ showtoc: false
 draft: false
 ---
 
-**Rami Essamedeen** *Software Developer* 
-I am a sudanese software developer 
+**Rami Essamedeen** *Software Developer*  
+  
+I am a Sudanese software developer. I studied electronics engineering at university. i developer mobile, desktop, and web apps, and i am proficient in the programming languages Kotlin, Java, C++, Python, JavaScript and many more.
+
+you can find samples of my code at:
+[**https://github.com/rami3sam/**](https://github.com/rami3sam/)
+
+and if you have any questions, Feel free to reach me out at the link below.  
+[**Contact Me**](/contact)
 
 
-You can find samples of my code at:
-- [**GitHub**](https://github.com/rami3sam/)
-
-You can also connect with me at the following social platforms:
-- [**Twitter**](https://twitter.com/rami3sam)
-- [**LinkedIn**](https://www.linkedin.com/in/rami3sam/)

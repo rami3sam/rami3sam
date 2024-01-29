@@ -3,6 +3,7 @@ baseURL: "https://rami3sam.github.io/"
 title: Rami Essamedeen
 paginate: 5
 theme: PaperMod
+enableEmoji: true
 
 enableRobotsTXT: true
 buildDrafts: false
