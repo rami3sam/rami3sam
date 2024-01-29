@@ -111,8 +111,12 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
+    - identifier: contact
+      name: Contact Me
+      url: /contact/
+      weight: 4
     - identifier: about
-      name: About
+      name: About Me
       url: /about/
       weight: 4
     - identifier: blog
