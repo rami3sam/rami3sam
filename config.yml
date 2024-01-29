@@ -1,6 +1,6 @@
 languageCode: en-us
-baseURL: "//chanin.tech/"
-title: Chanin Nantasenamat
+baseURL: "https://rami3sam.github.io/"
+title: Rami Essamedeen
 paginate: 5
 theme: PaperMod
 
@@ -17,10 +17,10 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ChaninNantasenamat
-  description: "This is the website of Chanin Nantasenamat, Ph.D. and I create educational content on data science. Some of you may know me as the **Data Professor**."
-  keywords: [Blog, Portfolio, Data Science]
-  author: Chanin Nantasenamat
+  title: RamiEssamedeen
+  description: "This is the website of Rami Essamedeen, I am a Software Developer here is my personal website."
+  keywords: [Blog, Portfolio, Software Developer]
+  author: Rami Essamedeen
   # author: ["Me", "You"] # multiple authors
   #images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "January 2, 2006"
@@ -41,7 +41,7 @@ params:
   tocopen: false
 
   label:
-    text: "Chanin Nantasenamat"
+    text: "Rami Essamedeen"
     icon: "images/coding.png"
     iconHeight: 35
 
@@ -49,16 +49,15 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Welcome! \U0001F44B"
-    subtitle: "This is the website of **Chanin Nantasenamat, Ph.D.** and
-    I create educational content on data science and bioinformatics.
-    Some of you may know me as the **Data Professor**."
+    subtitle: "This is the website of **Rami Essamedeen**, I am a **Software Developer,** 
+    and here is my personal website."
     imageUrl: "images/dp.png"
     imageWidth: 120
     imageHeight: 120
-    imageTitle: "Data Professor"
+    imageTitle: "Rami3sam"
     buttons:
-      - name: Blogs
-        url: blogs
+      - name: Blog
+        url: blog
       - name: Projects
         url: projects
 
@@ -71,17 +70,13 @@ params:
 
   socialIcons:
     - name: youtube
-      url: "http://youtube.com/dataprofessor"
-    - name: medium
-      url: "https://medium.com/@data-professor"
+      url: "https://www.youtube.com/@rami3sam"
     - name: twitter
-      url: "https://twitter.com/thedataprof"
+      url: "https://twitter.com/rami3sam"
     - name: linkedin
-      url: "https://www.linkedin.com/in/chanin-nantasenamat/"
+      url: "https://www.linkedin.com/in/rami3sam/"
     - name: github
-      url: "https://github.com/dataprofessor"
-    - name: buymeacoffee
-      url: "https://www.buymeacoffee.com/dataprofessor"
+      url: "https://github.com/rami3sam"
 
   analytics:
     google:
@@ -122,15 +117,15 @@ menu:
       weight: 4
     - identifier: blog
       name: Blogs
-      url: /blogs/
+      url: /blog/
       weight: 1
     - identifier: projects
       name: Projects
       url: /projects/
       weight: 2
-    - identifier: infographics
-      name: Infographics
-      url: /infographics/
+    - identifier: Resume
+      name: Resume
+      url: /resume/
       weight: 3
     #- identifier: tags
     #  name: tags
