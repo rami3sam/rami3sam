@@ -28,6 +28,15 @@ defaults:
     shell: bash
 
 jobs:
+  clear-github-caches:
+    name: Clear all GitHub action caches
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clear all caches
+        run: gh cache delete --all --repo me/my-project  # TODO: Use your project.
+        env:
+          # This token requires the "repo" scope.
+          GITHUB_TOKEN: ${{ secrets.ACTION_CLEAR_CACHES_TOKEN }}
   # Build job
   build:
     runs-on: ubuntu-latest
