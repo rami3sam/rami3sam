@@ -15,3 +15,5 @@ draft: false
 ---
 
 You can download my resume from the link below.
+
+- [**DOWNLOAD**](/resumes/rami_essamedeen.pdf)
