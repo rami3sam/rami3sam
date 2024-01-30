@@ -122,7 +122,7 @@ menu:
       url: /about/
       weight: 4
     - identifier: blog
-      name: Blogs
+      name: Blog
       url: /blog/
       weight: 1
     - identifier: projects
