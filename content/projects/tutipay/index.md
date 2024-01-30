@@ -1,6 +1,6 @@
 ---
 title: "Tutipay"
-date: 2024-01-29T11:30:03+00:00
+date:
 # weight: 1
 # aliases: ["/first"]
 tags: ["tutipay","E-banking","fintech","electronic banking"]

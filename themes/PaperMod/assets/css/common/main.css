@@ -94,3 +94,30 @@ pre:hover .copy-code {
     background-color: #2ecc71;
     color: #ffffff;
 }
+
+.btn-linkedin {
+    background-color: #0073af;
+    color: #ffffff;
+}
+
+.btn-twitter {
+    background-color: #1c9ceb;
+    color: #ffffff;
+}
+
+.btn-whatsapp {
+    background-color: #00cc3c;
+    color: #ffffff;
+}
+
+.btn-github {
+    background-color: #007c00;
+    color: #ffffff;
+}
+
+
+
+a:hover, a:visited, a:link, a:active
+{
+    text-decoration: none;
+}

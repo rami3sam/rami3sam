@@ -18,10 +18,10 @@ draft: false
   
 I am a Sudanese software developer. I studied electronics engineering at university. i developer mobile, desktop, and web apps, and i am proficient in the programming languages Kotlin, Java, C++, Python, JavaScript and many more.
 
-you can find samples of my code at:
-[**https://github.com/rami3sam/**](https://github.com/rami3sam/)
+You can find samples of my code at:  
+{{< button text="Github" link="https://github.com/rami3sam/" style="github" >}}
 
 and if you have any questions, Feel free to reach me out at the link below.  
-[**Contact Me**](/contact)
+{{< button text="Contact Me" link="/contact" style="primary" >}}
 
 
