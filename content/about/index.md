@@ -18,6 +18,9 @@ draft: false
   
 I am a Sudanese software developer. I studied electronics engineering at university. i developer mobile, desktop, and web apps, and i am proficient in the programming languages Kotlin, Java, C++, Python, JavaScript and many more.
 
+You can download my resume from the link below:  
+{{< button text="Download Resume" link="/resumes/rami_essamedeen.pdf" style="primary" >}}
+
 You can find samples of my code at:  
 {{< button text="Github" link="https://github.com/rami3sam/" style="github" >}}
 

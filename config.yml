@@ -58,7 +58,7 @@ params:
     imageTitle: "Rami3sam"
     buttons:
       - name: Resume
-        url: resume
+        url: /resumes/rami_essamedeen.pdf
       - name: Blog
         url: blog
       - name: Projects
