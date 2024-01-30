@@ -16,4 +16,4 @@ draft: false
 
 You can download my resume from the link below.
 
-[**DOWNLOAD**](/resumes/rami_essamedeen.pdf)
+{{< button text="Download" link="/resumes/rami_essamedeen.pdf" style="primary" >}}
