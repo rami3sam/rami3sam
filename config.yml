@@ -2,7 +2,7 @@ languageCode: en-us
 baseURL: "https://rami3sam.github.io/"
 title: Rami Essamedeen
 paginate: 5
-theme: PaperMod
+theme: ["PaperMod", "hugo-shortcode-gallery"]
 enableEmoji: true
 
 enableRobotsTXT: true

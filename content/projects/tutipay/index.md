@@ -22,7 +22,7 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "images/tutipay_logo.png" # image path/url
+    image: "/images/tutipay_logo.png" # image path/url
     alt: "<alt text>" # alt text
     caption: "<text>" # display caption under cover
     relative: false # when using page bundles set this to true
@@ -38,18 +38,4 @@ Tutipay is a fully-featured electronic banking application for Sudanese customer
 
 Screenshots:
 
-![Splash](/images/tutipay/tuti_screenshot_001.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_002.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_003.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_004.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_005.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_006.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_007.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_008.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_009.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_010.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_011.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_012.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_013.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_014.jpeg)
-![Splash](/images/tutipay/tuti_screenshot_015.jpeg)
+{{< gallery match="images/*" sortOrder="asc" rowHeight="150" margins="5" thumbnailResizeOptions="600x600 q90 Lanczos" showExif=true previewType="blur" embedPreview=true loadJQuery=true >}}  
