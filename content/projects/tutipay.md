@@ -35,3 +35,21 @@ editPost:
 
 
 Tutipay is a fully-featured electronic banking application for Sudanese customers, enabling them to conduct their financial transactions easily and securely. Through Tutipay, customers can recharge phone credit, buy electricity credit, purchase gift cards, pay their government bills, and access many other services. Additionally, customers can transfer money to other users by using QR codes. They can also request money from other users by sending a request or by generating a payment link and sharing it on social media.
+
+Screenshots:
+
+![Splash](/images/tutipay/tuti_screenshot_001.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_002.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_003.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_004.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_005.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_006.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_007.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_008.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_009.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_010.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_011.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_012.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_013.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_014.jpeg)
+![Splash](/images/tutipay/tuti_screenshot_015.jpeg)
