@@ -1,7 +1,7 @@
 <!-- layouts/shortcodes/button.html -->
 
 {{ $text := .Get "text" }}
-{{ $link := .Get "link" }}
+{{ $link := .Get "link" | safeURL }}
 {{ $style := .Get "style" | default "primary" }}
 
 <a href="{{ $link }}" class="btn btn-{{ $style }}">{{ $text }}</a>
