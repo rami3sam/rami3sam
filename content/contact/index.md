@@ -1,6 +1,6 @@
 ---
 title: "Contact Me"
-date: 2024-01-28T23:15:00+07:00
+date:
 slug: contact
 category:
 summary:
